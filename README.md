@@ -1,7 +1,7 @@
 # ARBITRAGE CRYPTO PROGRAM
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `This Program gives you the direction of the Trades on various exchanges`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Api is used for the data of the exchanges`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Top ten coins are take into consideration'`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `This is the arbitrage program of Finding Mismatched price'`
 
 ## REQUIREMENTS:
 
